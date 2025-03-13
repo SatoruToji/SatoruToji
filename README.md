@@ -1,6 +1,6 @@
 ![](./assets/header.png)
 - 👋 Hi, I’m Yura 
-- 📫 Contact me at: ![Telegram](https://img.shields.io/badge/privet?link=https%3A%2F%2Ft.me%2FSatoruToji)
+- 📫 Contact me at: !![Static Badge](https://img.shields.io/badge/Telegram?link=https%3A%2F%2Ft.me%2FSatoruToji)
 
 
 ### 👀 Skills
