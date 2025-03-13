@@ -1,6 +1,6 @@
 ![](./assets/header.png)
 - 👋 Hi, I’m Yura 
-- 📫 Contact me at: ![Telegram](https://t.me/SatoruToji)
+- 📫 Contact me at: [Telegram](https://t.me/SatoruToji)
 
 
 ### 👀 Skills
